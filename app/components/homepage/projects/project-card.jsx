@@ -64,7 +64,7 @@ function ProjectCard({ project }) {
           </div>
           <div><span className="text-gray-400">{`};`}</span></div>
           <div>
-            <a href="https://fiverrindia.tech">
+            <a href="https://aig-app-roan.vercel.app/">
             <span className="ml-4 lg:ml-8 mr-2 text-white">Demo1:</span>
             <span className="text-blue-400">{project.demo1}</span>
             </a>
@@ -76,13 +76,13 @@ function ProjectCard({ project }) {
             </a>
           </div>
           <div>
-            <a href="https://maumart.vercel.app">
+            <a href="https://tdc-user.vercel.app/">
             <span className="ml-4 lg:ml-8 mr-2 text-white">Demo3:</span>
             <span className="text-blue-400">{project.demo3}</span>
             </a>
           </div>
           <div>
-            <a href="https://voiceofgaza.netlify.app/">
+            <a href="https://tdc-staff.vercel.app/">
             <span className="ml-4 lg:ml-8 mr-2 text-white">Demo4:</span>
             <span className="text-blue-400">{project.demo4}</span>
             </a>

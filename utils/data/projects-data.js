@@ -6,22 +6,20 @@ import travel from "/public/image/travel.jpg";
 export const projectsData = [
   {
     id: 1,
-    name: "Fiverr India A Freelancing App",
+    name: "AIG Application",
     description:
-      "Me and my team built an web based freelancing application. I developed frontend part using reactjs and scss. apart from frontend I also implemented JWt for authentication and authorization, my team member worked on backend part using nodejs,expressjs,mongodb, after completion of the project I tested it on lambdatest.com and finally deployed it on vercel.com ",
+      "Worked on an internal enterprise application focused on building scalable and high-performance web solutions. Responsible for developing frontend features and managing application databases across multiple systems.",
     tools: [
+      "Next.js",
       "Html",
-      "Scss",
       "React",
-      "JWT",
-      "Lambdatest.com",
-      "Express",
+      "Tailwind CSS",
       "NodeJs",
       "MongoDB",
       "Mongoose",
-      "Starapi",
+      "RESTapi",
     ],
-    role: "Frontend Developer",
+    role: "Frontend Developer & Database Handler",
     code: "Click Here",
     demo1: "Live Preview",
     image: crefin,
@@ -47,9 +45,9 @@ export const projectsData = [
 },
 {
   id: 3,
-  name: "Mau Mart-Online Saree Store",
+  name: "Telangana State Dental Council Website",
   description:
-    "I built a responsive web design for online saree store using HTML,CSS,Javascript. Implemented googlesheet to store subscription email address. I used canva to  make user apealing UI design. Currently I'm working on it's backend part to make a fully functional website",
+    "Developed a role-based web application for the Telangana State Dental Council with separate user and admin portals to manage registrations, workflows, and administrative operations.",
   tools: [
     "HTML",
     "CSS",
@@ -63,15 +61,15 @@ export const projectsData = [
   demo3: "Live Preview",
   image: realEstate,
 },
-{
-  id: 4,
-  name: "Speech Text Reader App",
-  description:
-    "I developed a speech text reader app using javascript, and a feature to listen your own text. The App basically deals javascript DOM manipulation",
-  tools: ["HTML", "CSS", "Javascript", "cloudinary", "VS Code"],
-  code: "",
-  demo4: "Live Preview",
-  image: ayla,
-  role: "Frontend Developer",
-},
+// {
+//   id: 4,
+//   name: "Speech Text Reader App",
+//   description:
+//     "I developed a speech text reader app using javascript, and a feature to listen your own text. The App basically deals javascript DOM manipulation",
+//   tools: ["HTML", "CSS", "Javascript", "cloudinary", "VS Code"],
+//   code: "",
+//   demo4: "Live Preview",
+//   image: ayla,
+//   role: "Frontend Developer",
+// },
 ]
